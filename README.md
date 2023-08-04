@@ -1,11 +1,11 @@
-### Hi everyone, Welcome to 'my_lab' 💬 , in here you guys will see My ideas materialized   👋
+# Eu sou Levi Renato
+Olá bem vindo ao meus espaço aqui você encontra meus projetos aos quais tenho muito orgulho, e estou aberto a criticas contrutivas.
 
-#### Hello again my name is Levi  my nickName:'Ozcaner'(yes it's a bad ass nickname 😎)
-#### i'm 22 years old and i from Brazil. I am a Enginner student and Coffie Lover, but actualy i want to change my carrear to Tec becuase i just love it!
-#### 
-#### I have a Certificate in Computer Network and Techincal suport. and now very interest in data, so if you have something to me don't be shy! just DM me.
+## Formação:
+* Tecninco em redes de computadores;
+* Estudante de Analise e desenvolvimento de sistemas
 
-## I'm learning:
+## Estou aprendendo:
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="100" height="80"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="100" height="80" />
